@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    max-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+      
+
+.row{
+    padding-top: 10px; 
+}
+
+.projects{
+font-size: 60px;
+margin: 0 auto; 
+padding: 0 auto; 
+display: flex; 
+justify-content: center;
+align-items: center;
+}
+
+.columns{
+    padding-top: 60px; 
+
+}
+
+.action{
+    color: black; 
+}
+
+.links{
+    padding-top: 50px;
+    margin-top: 50px; 
+    padding-bottom: 20px; 
+}
+
+.text {
+    padding-bottom: 40px; 
+}
